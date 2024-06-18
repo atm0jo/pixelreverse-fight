@@ -1,7 +1,8 @@
 {
-  "secret": "XXXXXXXXXXX",
-  "tgId": "XXXXXXX",
-  "initData": "XXXXXXXXXXX",
+  "secret": "ffea7db994134f791bbde4c4c66f2cc3f52069885a258cc9a98f79cd48e57ef9",
+  "tgId": "447313546",
+  "initData": "
+query_id=AAGKdqkaAAAAAIp2qRq3hDaQ&user=%7B%22id%22%3A447313546%2C%22first_name%22%3A%22%5C%2Fhome%5C%2Ftri%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22atm0jo%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1718736803&hash=718212bc10cbb30afcf372be5a993864c34d186dfebc06aafdb36d1dd8fa18f3",
   "hitRate": 0.09,
   "upgrade": "off"
 }
